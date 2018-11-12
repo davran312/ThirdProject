@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="start">Cтарт</string>
+    <string name="pause">Приостановить</string>
+    <string name="stop">Стоп</string>
+    <string name="reset">Сбросить</string>
+</resources>
